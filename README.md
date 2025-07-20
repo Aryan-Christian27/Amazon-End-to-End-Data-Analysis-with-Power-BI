@@ -11,6 +11,12 @@ This project demonstrates an end-to-end data analysis workflow, from raw data ex
 
 ---
 
+ 📊 Dashboard Preview
+
+![Dashboard Preview](https://github.com/Aryan-Christian27/Amazon-End-to-End-Data-Analysis-with-Power-BI/blob/main/Screenshot%202025-06-08%20200048.png?raw=true)
+
+---
+
 ## 📋 Project Workflow
 
 The project is broken down into four main stages:
