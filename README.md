@@ -94,6 +94,6 @@ To replicate this project on your local machine, follow these steps:
 
 ## 👤 Author
 
-* **[Aryan Khristi]** - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/christian-aryan2710/)
+* **[Aryan Khristi]** - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-aryan2710/)
   
 Feel free to reach out with any questions or feedback!
